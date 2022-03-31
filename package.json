@@ -1,0 +1,26 @@
+{
+  "name": "beiji",
+  "version": "1.0.0",
+  "description": "一个个人开发的工具包开源项目",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangjindiao/beiji.git"
+  },
+  "keywords": [
+    "个人",
+    "工具",
+    "开源",
+    "日常"
+  ],
+  "author": "yangjinidao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangjindiao/beiji/issues"
+  },
+  "homepage": "https://github.com/yangjindiao/beiji#readme"
+}
